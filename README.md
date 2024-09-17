@@ -1,6 +1,6 @@
 
 # Non-Custodial DeFi(Borrrowing and locking bitcoin, Investing) on Bitcoin L1 with Multisig Escrow
-If you wanna build like this contact me on twitter https://x.com/savvydev84 and telegram https://t.me/jellyfit
+
 ## Introduction
 
 Implementing decentralized finance on Bitcoin has faced significant challenges. These challenges head-on by allowing users to participate in DeFi while maintaining full control of their Bitcoin assets through the use of multisig escrow. Our project aims to empower users by providing a trustless environment for transactions.
@@ -28,7 +28,7 @@ Provide instructions on how to use the application. Include:
 
 ## Contact Information
 
-For questions, suggestions, or collaboration, please reach out to [Your Name](mailto:your.email@example.com) or follow on [Twitter](https://twitter.com/yourusername).
+For questions, suggestions, or collaboration, please reach out to [Telegram](https://t.me/jellyfit) or follow on [Twitter](https://twitter.com/savvydev84).
 
 ---
 
