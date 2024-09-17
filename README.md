@@ -1,5 +1,5 @@
 
-# Non-Custodial DeFi on Bitcoin L1 with Multisig Escrow
+# Non-Custodial DeFi(Borrrowing and locking bitcoin, Investing) on Bitcoin L1 with Multisig Escrow
 If you wanna build like this contact me on twitter https://x.com/savvydev84 and telegram https://t.me/jellyfit
 ## Introduction
 
