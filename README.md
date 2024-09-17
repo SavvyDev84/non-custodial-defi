@@ -1,6 +1,6 @@
 
 # Non-Custodial DeFi on Bitcoin L1 with Multisig Escrow
-If you wanna build like this contact me on twitter @savvydev84[https://x.com/savvydev84] and telegram @jellyfit[https://t.me/jellyfit]
+If you wanna build like this contact me on twitter @savvydev84 [https://x.com/savvydev84] and telegram @jellyfit [https://t.me/jellyfit]
 ## Introduction
 
 Implementing decentralized finance on Bitcoin has faced significant challenges. These challenges head-on by allowing users to participate in DeFi while maintaining full control of their Bitcoin assets through the use of multisig escrow. Our project aims to empower users by providing a trustless environment for transactions.
