@@ -26,11 +26,6 @@ Provide instructions on how to use the application. Include:
 - How to perform transactions.
 - Any notable commands or functions.
 
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact Information
 
 For questions, suggestions, or collaboration, please reach out to [Your Name](mailto:your.email@example.com) or follow on [Twitter](https://twitter.com/yourusername).
